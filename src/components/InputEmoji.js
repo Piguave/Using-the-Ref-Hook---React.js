@@ -12,7 +12,7 @@ function InputEmoji() {
         window.addEventListener("click", (e) => {
             if (!containerRef.current.contains(e.target)) {
                 setShowPicker(false);
-                
+                inputRef.current.focus();
             }
         });
     }, []);
