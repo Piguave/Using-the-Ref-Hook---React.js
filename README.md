@@ -1,24 +1,53 @@
-# emoji-picker-react-app
+<img src="./src/assets/logo_kruger_.png" height="50px">
 
-How to add emoji picker in the React
+# Kruger Star Using the Ref Hook - React.js
 
-## Documentation
+> Project Using the State Hook - React.js
 
-[https://www.cluemediator.com/how-to-add-emoji-picker-in-the-react](https://www.cluemediator.com/how-to-add-emoji-picker-in-the-react)
 
-## Quick Start
 
-Follow the below steps to run the project.
+## Built with 
 
-1. Clone repository
-2. Run `npm i` command to install dependencies
-3. Execute `npm start` command to run the project
+- JavaScript
+- React.js 18
+- emoji-picker-react
+- React Bootstrap
+- Vercel 
+- HTML + CSS
 
-## Connect with us
+## Live Demo
 
-Website: [Clue Mediator](https://www.cluemediator.com)  
-Like us on [Facebook](https://www.facebook.com/thecluemediator)  
-Follow us on [Twitter](https://twitter.com/cluemediator)  
-Join us on [Telegram](https://t.me/cluemediator)  
-Subscribe us on [YouTube](https://www.youtube.com/ClueMediator)  
-Follow us on [Instagram](https://www.instagram.com/clue_mediator)
+- [Live demo link, deployed in Vercel](https://use-effect-example-lac.vercel.app/)
+## Run it locally
+
+ ### Setup
+
+ - Clone this repo using `git clone https://github.com/Piguave/Using-the-Ref-Hook---React.js`
+
+ ### Commands
+
+ - `npm i`
+ - `npm start`
+
+## Author
+
+👤 **Ariel Piguave**
+
+- GitHub: [@Piguave](https://github.com/Piguave)
+- Twitter: 
+
+## 🤝 Contributing
+
+- Juan Sotomayor - Tutor Kruger Star
+
+## Show your support
+
+Give a ⭐ if you like this project!
+
+## Acknowledgments
+
+- Design by: JS
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
