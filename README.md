@@ -4,7 +4,7 @@
 
 > Project Using the Ref Hook - React.js
 
-<img src="./src/assets/playground.png" height="300px">
+<img src="./src/assets/playground2.png" height="300px">
 
 ## Built with 
 
