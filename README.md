@@ -39,6 +39,7 @@
 ## 🤝 Contributing
 
 - Juan Sotomayor - Tutor Kruger Star
+- [Vida MRR](https://www.youtube.com/watch?v=oT-feDPuJmk&t=5623s&ab_channel=VidaMRR-Programacionweb)
 
 ## Show your support
 
