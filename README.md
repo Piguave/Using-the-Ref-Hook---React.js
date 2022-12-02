@@ -2,9 +2,9 @@
 
 # Kruger Star Using the Ref Hook - React.js
 
-> Project Using the State Hook - React.js
+> Project Using the Ref Hook - React.js
 
-
+<img src="./src/assets/playground.png" height="300px">
 
 ## Built with 
 
@@ -12,12 +12,12 @@
 - React.js 18
 - emoji-picker-react
 - React Bootstrap
-- Vercel 
+- Netlify 
 - HTML + CSS
 
 ## Live Demo
 
-- [Live demo link, deployed in Vercel](https://use-effect-example-lac.vercel.app/)
+- [Live demo link, deployed in Netlify](https://react-emoji-picker-app.netlify.app/)
 ## Run it locally
 
  ### Setup
@@ -39,7 +39,6 @@
 ## 🤝 Contributing
 
 - Juan Sotomayor - Tutor Kruger Star
-- [Vida MRR](https://www.youtube.com/watch?v=oT-feDPuJmk&t=5623s&ab_channel=VidaMRR-Programacionweb)
 
 ## Show your support
 
